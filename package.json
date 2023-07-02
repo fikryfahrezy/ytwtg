@@ -30,6 +30,6 @@
 	"type": "module",
 	"dependencies": {
 		"screenfull": "^6.0.2",
-		"svelte-player": "^0.0.6"
+		"svelte-player": "^0.0.7"
 	}
 }
