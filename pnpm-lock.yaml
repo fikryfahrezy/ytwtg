@@ -1,12 +1,16 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   screenfull:
     specifier: ^6.0.2
     version: 6.0.2
   svelte-player:
-    specifier: ^0.0.7
-    version: 0.0.7(svelte@4.0.0)
+    specifier: ^0.0.11
+    version: 0.0.11(svelte@4.0.0)
 
 devDependencies:
   '@sveltejs/adapter-auto':
@@ -1725,8 +1729,8 @@ packages:
       svelte: 4.0.0
     dev: true
 
-  /svelte-player@0.0.7(svelte@4.0.0):
-    resolution: {integrity: sha512-AgaFXSKa6HuvMTfy9/QNU7owMZToKPXzllmgeVRoknTj8BR0U395EIATwkzKc0KaAcn5qvMmcyHbny2mn6/BiA==}
+  /svelte-player@0.0.11(svelte@4.0.0):
+    resolution: {integrity: sha512-ONEsK2c0SLmEkyA0bQ3gPVmVfU7YhVXsof+S4zVuG/UFIddPu7wuboiDdGD33g/S0lC3YlFZLPBqIKkL+rp1bQ==}
     peerDependencies:
       svelte: '>=3.54.0'
     dependencies:
